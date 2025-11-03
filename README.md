@@ -49,4 +49,6 @@ cargo upgrade
 - [Csv Cookbook](https://docs.rs/csv/1.0.0/csv/cookbook/index.html)
 - [Parquet](https://docs.rs/parquet/latest/parquet/#metadata-and-schema)
 - [Polars](https://docs.pola.rs/)
+- [Diesel](https://diesel.rs/guides/getting-started)
+- 
 
