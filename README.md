@@ -43,21 +43,8 @@ cargo add serde
 cargo upgrade
 ``` 
 
-### Show project directory structure now including added dependencies
-```
-tree 
-```
-
-### Output:
-``` 
-.
-├── Cargo.lock
-├── Cargo.toml
-└── src
-    └── main.rs
-``` 
-
 ### Useful Links
 
 - [Rust Collections Documentation](https://doc.rust-lang.org/std/collections/index.html)
+- [Csv Cookbook](https://docs.rs/csv/1.0.0/csv/cookbook/index.html)
 
