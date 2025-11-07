@@ -51,4 +51,3 @@ cargo upgrade
 - [Polars](https://docs.pola.rs/)
 - [Diesel](https://diesel.rs/guides/getting-started)
 - 
-
